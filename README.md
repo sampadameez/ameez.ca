@@ -23,7 +23,7 @@ The generated site is in `dist`. No server-side code, database, or paid service 
 ## Before publishing
 
 - Confirm `support@ameez.ca` is a working inbox, or replace `contactEmail` in `src/App.tsx`.
-- The founder graphic is an intentional portrait placeholder and can be replaced when a portrait is available.
+- The founder section uses the Ameez monogram as an institutional graphic. The transparent, scalable `public/ameez-monogram.svg` can also be used in presentations and social profile artwork; `public/favicon.svg` is the small-size variant.
 - The canonical URL, structured data, sitemap, and robots file assume `https://ameez.ca/`. Update them to the final public URL if different.
 - Configure the custom domain in GitHub Pages and DNS if using `ameez.ca`. GitHub Pages must be publicly reachable for search engines to index it.
 
